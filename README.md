@@ -43,7 +43,12 @@ Do not forget to update ``/server/_config.php``. Files ``_export.php`` and ``asy
 ```
 v1.0.0 - March 15, 2018
 ** Initial release **
+
+v1.1.0 - May 08, 2018
+  - Fancybox API update
 ```
+
+**PLEASE, NOTE: WE DO NOT PROVIDE ADVANCED SUPPORT FOR THIS PROJECT** 
 
 ## Credits
 - [Max Kostinevich](https://maxkostinevich.com)
