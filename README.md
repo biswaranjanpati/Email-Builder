@@ -39,6 +39,11 @@ Do not forget to replace all occurrences of ``localhost`` to the actual domain n
 
 Do not forget to update ``/server/_config.php``. Files ``_export.php`` and ``async.php`` also contain application-specific variables like path to the uploads folder and path to the template.
 
+## Adding new templates
+To add a new template you'll have to create a new folder under /templates/ folder and template.json file. Use default template as an example.
+To convert HTML into json you may use the following service:
+- http://www.freeformatter.com/javascript-escape.html
+
 ## Changelog
 ```
 v1.0.0 - March 15, 2018
