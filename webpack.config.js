@@ -319,7 +319,7 @@ if (Mix.browserSync) {
     plugins.push(
         new webpackPlugins.BrowserSyncPlugin(
             Object.assign({
-                host: 'localhost',
+                host: 'http://139.59.39.34',
                 port: 3000,
                 proxy: 'app.dev',
                 files: [
