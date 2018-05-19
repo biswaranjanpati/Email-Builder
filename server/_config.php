@@ -12,7 +12,7 @@
 
 $protocol = 'http';
 
-$host= $protocol . '://' . $_SERVER['SERVER_NAME'];
+$host= $protocol . '://' . $_SERVER['139.59.39.34'];
 
 $CONFIG['uploads_folder'] = 'server/uploads';
 
