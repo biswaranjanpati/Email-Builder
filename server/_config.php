@@ -12,7 +12,7 @@
 
 $protocol = 'http';
 
-$host= $protocol . '://' . $_SERVER['139.59.39.34'];
+$host= $protocol . '://' . $_SERVER['zealous-month.surge.sh'];
 
 $CONFIG['uploads_folder'] = 'server/uploads';
 
